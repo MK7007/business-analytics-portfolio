@@ -21,9 +21,9 @@ Analyzed vehicle data including manufacturer, model, mileage, and warranty statu
 
 ## Visualization
 
-![Age vs Mileage](age-vs-mileage.png)
+![Age vs Mileage](https://raw.githubusercontent.com/MK7007/business-analytics-portfolio/main/vehicle-data-analysis/age-vs-mileage.png)
 
-![Each Drivers Mileage](Each-Drivers-mileage.png)
+![Each Driver Mileage](https://raw.githubusercontent.com/MK7007/business-analytics-portfolio/main/vehicle-data-analysis/Each-Drivers-mileage.png)
 
 ## Business Value
 This analysis helps:
