@@ -1,6 +1,6 @@
 # Vehicle Data Analysis (Excel Project)
 
-## Description
+# Description
 Analyzed vehicle data including manufacturer, model, mileage, and warranty status.
 
 ## Analysis Performed
