@@ -18,3 +18,7 @@ Analyzed vehicle data including manufacturer, model, mileage, and warranty statu
 ## Files Included
 - Excel dataset
 - Visualization (scatter plot)
+
+## Visualization
+
+![Vehicle Analysis](chart.png)
